@@ -1,0 +1,2 @@
+Número original: 567
+Número invertido: 765

@@ -1,0 +1,36 @@
+Frase: papayo
+Autor: loki
+La palabra 'papyo' aparece 0 veces.
+
+Frase: lola
+Autor: papo
+La palabra 'papyo' aparece 0 veces.
+
+Frase: caballo papayo de las montañas
+Autor: yota
+La palabra 'papyo' aparece 0 veces.
+
+Frase: Los papayo son la mera raza del pedazo
+Autor: Yo
+La palabra 'papyo' aparece 0 veces.
+
+Frase: hola que hace
+Autor: mi
+La palabra 'hola' aparece 1 veces.
+
+Frase: hola como estas
+Autor: yo
+La palabra 'hola' aparece 1 veces.
+
+Frase: hace tiempo que no le decia ni hola
+Autor: tu
+La palabra 'hola' aparece 1 veces.
+
+Frase: hola papa
+Autor: mi
+La palabra 'hola' aparece 1 veces.
+
+Frase: hola mama
+Autor: tu
+La palabra 'hola' aparece 2 veces.
+

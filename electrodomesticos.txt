@@ -1,0 +1,2 @@
+lavadora,LG,3050.0,alto consumo
+Microondas,Kaley,6700.0,alto consumo
